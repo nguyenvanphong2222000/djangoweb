@@ -86,14 +86,12 @@ DATABASES = {
     #     'ENGINE': 'django.db.backends.sqlite3',
     #     'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
     # }
-    'default': {
        'ENGINE': 'django.db.backends.postgresql',
-       'NAME': 'Canopy',
-       'USER': 'postgres',
-       'PASSWORD': 'postgres',
-       'HOST': 'localhost',
-       'PORT': '5433',
-   }
+       'NAME': 'd1c66su3b6su5g',
+       'USER': 'orcrlfnzavqrrs',
+       'PASSWORD': 'dfbdbb4d27f406285390566d4ff415d96222391a8c34e9b1b4a6e16cadf9c292',
+       'HOST': 'ec2-3-209-39-2.compute-1.amazonaws.com',
+       'PORT': '5432',
 }
 
 
